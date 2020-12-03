@@ -6,10 +6,10 @@ Here would be the commanders that are so good that no other mono-white commander
 
 ## Tier 1
 
-### Heliod, Sun-Crowned
+##### Heliod, Sun-Crowned
 
 
-### Teshar, Ancestor's Apostle
+#### Teshar, Ancestor's Apostle
 
 ## Tier 2
 
