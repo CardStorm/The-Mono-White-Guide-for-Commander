@@ -23,13 +23,8 @@ Good cards that will find a home in a many decks.
 ## Tier 3
 Average and reasonable cards that can be slotted into a deck without much issue.
 
-##### <img src="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934" alt="Ajani, Strength of the Pride" height="30%"> - <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
+##### <img src="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934" alt="Ajani, Strength of the Pride" width="200"> - <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
 As many white decks can be made to gain a non-trivial amount of life without too much work, this is efficient one-sided mass removal. However the sacrifice of playing ways to gain life must still be made to include <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani</a>, causing the deck to suffer elsewhere.
-
-test
-![test image size](https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934){:height="30%"}
-endtest
-
 
 ## Tier 4
 Suboptimal cards that have specific utility or synergy. These cards are cards you don't really want to play but sometimes have to.
