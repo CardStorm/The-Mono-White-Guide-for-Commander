@@ -1,5 +1,6 @@
 # The Mono-White Planeswalker Tierlist
 Here is a structured tierlist of all the playable planeswalkers in mono-white, with detailed explanations of why they are ranked as they are.
+
 //
 Cards are generally rated in a vaccuum without consideration of other cards; however some cards are rated with an * next to them, indicating where a card might be far better than rated due to being highly synergistic and/or being part of a package.
 //
@@ -12,14 +13,18 @@ There are none as of now.
 ## Tier 1
 Great cards that can find a home in most decks.
 
+
+
 ## Tier 2
 Good cards that will find a home in a many decks.
+
+
 
 ## Tier 3
 Average and reasonable cards that can be slotted into a deck without much issue.
 
-##### <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
-As many white decks can be made to gain a non-trivial amount of life without too much work, this threatens to 
+##### <img src="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934" alt="Ajani, Strength of the Pride" style="max-width:100%;"> - <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
+As many white decks can be made to gain a non-trivial amount of life without too much work, this is efficient one-sided mass removal. However the sacrifice of playing ways to gain life must still be made to include <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani</a>, causing the deck to suffer elsewhere.
 
 ## Tier 4
 Suboptimal cards that have specific utility or synergy. These cards are cards you don't really want to play but sometimes have to.
