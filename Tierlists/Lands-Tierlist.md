@@ -1,2 +1,2 @@
-# The Mono-White Guide for Commander
- This is an extensive guide to playing mono-white in Commander/EDH, including deckbuilding strategies, detailed analysis of cards, and play patterns.
+# The Mono-White Lands Tierlist
+ Here is a structured tierlist of all the playable lands in mono-white, with detailed explanations of why they are ranked as they are.
