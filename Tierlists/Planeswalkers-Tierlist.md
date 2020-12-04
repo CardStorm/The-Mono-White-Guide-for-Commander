@@ -23,7 +23,7 @@ Good cards that will find a home in a many decks.
 ## Tier 3
 Average and reasonable cards that can be slotted into a deck without much issue.
 
-##### <img src="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934" alt="Ajani, Strength of the Pride" style="width:100;"> - <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
+##### <img src="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79883468-a37c-4894-8d05-6a4d150b7d59.jpg?1592515934" alt="Ajani, Strength of the Pride" width="100" height="100"> - <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani, Strength of the Pride</a>
 As many white decks can be made to gain a non-trivial amount of life without too much work, this is efficient one-sided mass removal. However the sacrifice of playing ways to gain life must still be made to include <a href="https://scryfall.com/card/m20/2/ajani-strength-of-the-pride">Ajani</a>, causing the deck to suffer elsewhere.
 
 ## Tier 4
