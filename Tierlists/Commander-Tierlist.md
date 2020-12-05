@@ -61,6 +61,8 @@ This fixes your mana in a mono-color deck. Play with heavy irony.
 On a more serious note, Kentaro goes infinite with fairly little effort but does nothing on his own which is why he's a Tier lower than other combo generals like Lin Sivvi.
 #### Sensei Golden-Tail
 Same as the above, but tastes different.
+#### <a href="https://scryfall.com/card/plist/26/nahiri-the-lithomancer">Nahiri, the Lithomancer</a>
+<a href="https://scryfall.com/card/plist/26/nahiri-the-lithomancer">Nahiri</a> does enough interesting things recurring bigger equipments and providing sacrifice fodder for <a href="https://scryfall.com/card/usg/309/smokestack">Smokestack</a> to be a contender.
 #### Livio, Oathsworn Sentinel
 Livio does a lot of sweet things, though admittedly none are individually particularly powerful. Between reusing enters/leaves the battlefield triggers, protecting your creatures from a boardwipe (in a roundabout way), or setting up combos, Livio is strangely flexible for a white card in a very good way.
 #### Rebbec, Architect of Asension
