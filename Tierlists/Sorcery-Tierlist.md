@@ -8,11 +8,14 @@ There are none as of now.
 
 ## Tier 1
 Great cards that can find a home in most decks.
-#### <a href="https://scryfall.com/card/znr/12/emerias-call-emeria-shattered-skyclave"></a>
-#### <a href="https://scryfall.com/card/hou/15/hour-of-revelation"></a>
+#### <a href="https://scryfall.com/card/znr/12/emerias-call-emeria-shattered-skyclave">Emeria's Call / Shattered Skyclave</a>
+Practically free to include. Strangely making two 4/4's for 4WWW is a big threat with how much you slow the game down and drain resources in mono-white, I've killed one or two players with just the two tokens multiple times now.
+#### <a href="https://scryfall.com/card/hou/15/hour-of-revelation">Hour of Revelation</a>
 Just play it, it's a 3 mana 11-for-one.
-#### <a href="https://scryfall.com/card/znr/30/ondu-inversion-ondu-skyruins"></a>
-#### <a href="https://scryfall.com/card/soi/32/open-the-armory"></a>
+#### <a href="https://scryfall.com/card/znr/30/ondu-inversion-ondu-skyruins">Ondu Inversion / Ondu Skyruins</a>
+Nukes are good, this is almost free to include.
+#### <a href="https://scryfall.com/card/soi/32/open-the-armory">Open the Armory</a>
+Tutors some of your better card advantage, and helps opens up a niche toolbox of auras.
 #### <a href=""></a>
 #### <a href=""></a>
 #### <a href=""></a>
@@ -40,14 +43,19 @@ Just play it, it's a 3 mana 11-for-one.
 ## Tier 2
 Good cards that will find a home in a many decks.
 #### <a href="https://scryfall.com/card/ons/2/akromas-vengeance">Akroma's Vengeance</a> 
+Nukes are good. This doesn't kill everything like <a href="https://scryfall.com/card/m10/24/planar-cleansing">Planar Cleansing</a> making it better in a deck with more planeswalkers, and can be cycled in a pinch.
 #### <a href="https://scryfall.com/card/roe/1/all-is-dust">All is Dust</a>
+Nuke that keeps rocks around, which you can build heavily around. Generally found most commonly in Eldrazi builds.
 #### <a href="https://scryfall.com/card/leb/2/armageddon">Armageddon</a>
+This isn't as good as people think it is in mono-white (because mono-white recovers from it the worst), but is still a powerful answer to greedy ramp decks.
 #### <a href="https://scryfall.com/card/c20/25/dismantling-wave">Dismantling Wave</a>
 Only reason this is not Tier 1 is because it doesn't line up well every game, and sorcery speed hurts. In a faster meta where everyone is playing mana rocks and busted enchantments this is T1.
 #### <a href="https://scryfall.com/card/kld/14/fragmentize">Fragmentize</a>
 Somewhat similar to above, the faster the meta the more you want cheap one-for-ones and efficient answers than you do mass removal.
-#### <a href="https://scryfall.com/card/eve/7/hallowed-burial"></a>
-#### <a href="https://scryfall.com/card/m10/24/planar-cleansing"></a>
+#### <a href="https://scryfall.com/card/eve/7/hallowed-burial">Hallowed Burial</a>
+For 1 more than Wrath of God you get around Indestructible/Regenerate and Death/Leaves the Battlefield triggers. As a general rule paying 1 more than Wrath of God is worth it for higher quality boardwipes.
+#### <a href="https://scryfall.com/card/m10/24/planar-cleansing">Planar Cleansing</a>
+It's a nuke. Nukes are card advantage. With how many exist currently you can space these out correctly, leaving you in both a mana and card advantage. However doing this consistently while playing around your opponents will require a lot of practice.
 #### <a href=""></a>
 #### <a href=""></a>
 #### <a href=""></a>
