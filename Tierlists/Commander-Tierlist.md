@@ -18,8 +18,6 @@ Explanation of Tier 1
 Explanation of Tier 2
 These are all commanders I would generally call 'good'. 
 
-#### Darien, King of Kjeldor
-
 
 #### Sram, Senior Edificer
 
@@ -43,9 +41,11 @@ These are all commanders I would generally call 'good'.
 Explanation of Tier 3
 
 #### Celestial Kirin
-Mostly up here because of Ugin's Conjurant being a 0cmc Armageddon, and flexibly mass removal. Awkwardness can happen between spirits in hand and your boardstate, but when Kirin works it feels pretty unfair to your opponents as every card in your hand is removing multiple of their permanents.
+Mostly up here because of Ugin's Conjurant being easily tutorable flexible mass removal that can hit lands. Awkwardness can happen between spirits in hand and your boardstate, but when Kirin works it feels pretty unfair to your opponents as every card in your hand is removing multiple of their permanents.
 #### Bruna, the Fading Light
 Recurs two good creature types in the color _on cast_, and can shut off a lot of what your opponents can do if you find Gisela. Only limiting factor is her mana cost, but it's a fair price to pay for the ability to go long and grind out games.
+#### Darien, King of Kjeldor
+While Darien can both generate value on his own and is a combo win condition his high mana cost and requirement of playing bad combo pieces make him clunkier than ideal. That said Darien still does both of those things fairly reasonably.
 #### Daxos, Blessed by the Sun
 Soul sisters combos in commander aren't great but when one piece of the combo is in the command zone the combo looks more appealing. Daxos can only get better with time as new cards get printed.
 #### Djeru, With Eyes Open
